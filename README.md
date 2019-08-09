@@ -1,1 +1,2 @@
-# algo-expert
+# algorithms practice
+resource: algo expert
